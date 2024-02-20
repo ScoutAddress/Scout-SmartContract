@@ -22,4 +22,4 @@ To get started, clone this repo, then follow these instructions:
 
 
 ### Learn More
-[Frontend:](https://github.com/ScoutAddress/Scout-Frontend)
+[Scout Frontend.](https://github.com/ScoutAddress/Scout-Frontend)
