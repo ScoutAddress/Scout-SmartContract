@@ -17,6 +17,7 @@ To get started, clone this repo, then follow these instructions:
 
 |Network           |Address                                                                                                               |
 |-----------------------|-----------------------------------------------------------------------------------------------------------------------------|
+|BNB Smart Chain Testnet|[0x39FB755c32Aac73f1b476cEC918Fd00258F5e02b](https://testnet.bscscan.com/address/0x39fb755c32aac73f1b476cec918fd00258f5e02b)|
 |Sepolia                |[0x39FB755c32Aac73f1b476cEC918Fd00258F5e02b](https://sepolia.etherscan.io/address/0x39fb755c32aac73f1b476cec918fd00258f5e02b)|
 
 
