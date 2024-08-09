@@ -5,7 +5,7 @@ Scout SmartContract
 
 ### Development
 
-This repository uses [remix](https://remix.ethereum.org/) for dev tool version management. or [hardhat](https://hardhat.org/) Both are prerequisites for setting up your development environment. The repository also requires [foundry](https://github.com/gakonst/foundry) for development of periphery smart contracts.
+This repository uses [remix](https://remix.ethereum.org/) for dev tool version management. or [hardhat](https://hardhat.org/) Both are prerequisites for setting up your development environment. The repository also requires [foundry](https://getfoundry.sh/) for development of periphery smart contracts.
 
 ### Instructions
 
@@ -19,6 +19,7 @@ To get started, clone this repo, then follow these instructions:
 |-----------------------|-----------------------------------------------------------------------------------------------------------------------------|
 |BNB Smart Chain Testnet|[0x39FB755c32Aac73f1b476cEC918Fd00258F5e02b](https://testnet.bscscan.com/address/0x39fb755c32aac73f1b476cec918fd00258f5e02b)|
 |Sepolia                |[0x39FB755c32Aac73f1b476cEC918Fd00258F5e02b](https://sepolia.etherscan.io/address/0x39fb755c32aac73f1b476cec918fd00258f5e02b)|
+|Sei Testnet            |[0x39FB755c32Aac73f1b476cEC918Fd00258F5e02b](https://seitrace.com/address/0x39FB755c32Aac73f1b476cEC918Fd00258F5e02b?chain=atlantic-2)|
 
 
 ### Learn More
